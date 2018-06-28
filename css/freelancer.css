@@ -40,7 +40,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #D72020;
+  background-color: #9F1FB8;
 }
 
 hr.star-dark {
@@ -115,7 +115,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #D72020;
+  color: #9F1FB8;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -123,7 +123,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #D72020;
+  color: #9F1FB8;
 }
 
 #mainNav .navbar-toggler {
@@ -150,11 +150,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #D72020;
+    background: #9F1FB8;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #D72020;
+    background: #9F1FB8;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -313,7 +313,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #D72020;
+  color: #9F1FB8;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -332,7 +332,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #D72020;
+  color: #9F1FB8;
 }
 
 a:focus, a:hover, a:active {
@@ -344,7 +344,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #D72020 !important;
+  background-color: #9F1FB8 !important;
 }
 
 .bg-secondary {
@@ -352,7 +352,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #D72020 !important;
+  color: #9F1FB8 !important;
 }
 
 .text-secondary {
@@ -360,8 +360,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #D72020;
-  border-color: #D72020;
+  background-color: #9F1FB8;
+  border-color: #9F1FB8;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
