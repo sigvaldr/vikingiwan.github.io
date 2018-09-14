@@ -8,7 +8,7 @@ body {
     color: white;
 }
 
-a:link, a:visited {
+a.link:link, a.link:visited {
     background-color: #365cf4;
     color: white;
     padding: 14px 25px;
@@ -17,6 +17,19 @@ a:link, a:visited {
     display: inline-block;
 }
 
-a:hover, a:active {
+a.link:hover, a.link:active {
     background-color: blue;
+}
+
+a.backup:link, a.backup:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.backup:hover, a.backup:active {
+    background-color: red;
 }
